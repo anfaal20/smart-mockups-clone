@@ -182,3 +182,15 @@ nav {
 #fig-4:hover {
     text-decoration: underline;
 }
+#sp-1:hover{
+    color: rgb(100, 139, 245);
+    transition-duration: 300ms;
+}
+#sp-2:hover{
+    color: rgb(100, 139, 245);
+    transition-duration: 300ms;
+}
+#sp-3:hover{
+    color: rgb(100, 139, 245);
+    transition-duration: 300ms;
+}
